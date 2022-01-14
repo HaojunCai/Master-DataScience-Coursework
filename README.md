@@ -3,7 +3,7 @@
 Author: Haojun Cai (haojuncai1996@gmail.com)
 
 ## Introduction
-This repo includes coursework/course projects related to data preprocessing, modeling (regression, classification, clustering, and neural network), and parameters/results analysis from the courses including image interpretation, introduction to machine learning, advanced machine learning during my Master's at ETH Zurich.
+This repo includes coursework related to data preprocessing, modeling (regression, classification, clustering, and neural network), and parameters/results analysis from courses including image interpretation, introduction to machine learning, advanced machine learning during my Master's at ETH Zurich.
 
 ## File Structure
   - 01_FeatureExtraction.ipynb: implemented Gaussian smoothing and then edge detection on images, calculated variances and plotted image pixel values
