@@ -1,6 +1,6 @@
 # Data Processing & Modeling Coursework during my Master's
 
-Author: Haojun Cai (haojuncai1996@gmail.com)
+Author: Haojun Cai
 
 ## Introduction
 This repo includes coursework related to data preprocessing, modeling (regression, classification, clustering, and neural network), and parameters/results analysis from courses including image interpretation, introduction to machine learning, advanced machine learning during my Master's at ETH Zurich.
